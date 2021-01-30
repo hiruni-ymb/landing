@@ -1,0 +1,23 @@
+.forms { text-align: justify;
+  width: 49%;
+  display: inline-block;
+  float: left;
+  margin-left: 1%;
+  font-family: 'Bodoni Moda', serif;
+  font-weight: bold; }
+
+  .forms{
+	display: flex;
+	flex-wrap: wrap;
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin: 10px;
+	flex-basis: 250px;
+	flex-grow: 1;
+
+}
+
